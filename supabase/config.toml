@@ -1,0 +1,7 @@
+[functions]
+# Disable edge function deployment
+enabled = false
+
+[storage]
+# Client-side storage enabled
+enabled = true
