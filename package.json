@@ -4,8 +4,9 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "build": "./node_modules/.bin/vite build",
-    "dev": "./node_modules/.bin/vite"
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite"
   },
   "dependencies": {
     "@babel/core": "^7.28.5",
